@@ -1231,10 +1231,6 @@ p .li {
         max-width: 32rem;
     }
 
-    #icons03 {
-        font-size: 1.5em;
-    }
-
     #image01 img {
         height: 17.75rem !important;
     }
@@ -1300,7 +1296,7 @@ p .li {
     }
 
     #icons03 {
-        font-size: 1.25em;
+        font-size: 1.5em;
         width: calc(100% + 0.9375rem);
         margin-left: -0.46875rem;
     }
